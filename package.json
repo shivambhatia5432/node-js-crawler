@@ -1,0 +1,34 @@
+{
+  "name": "nodejs-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "*",
+    "chrome-aws-lambda": "^10.0.0",
+    "fs": "*",
+    "node-fetch": "^3.0.0",
+    "nodemon": "^2.0.12",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "urlParser": "^0.1.2"
+  },
+  "devDependencies": {
+    "puppeteer": "^10.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivambhatia5432/node-js-crawler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivambhatia5432/node-js-crawler/issues"
+  },
+  "homepage": "https://github.com/shivambhatia5432/node-js-crawler#readme"
+}
