@@ -1,6 +1,5 @@
 # node-js-crawler
-
-This crawler will list top domains and sources of an article in medium.com. This can be customised for any website by changing few variables.
+This crawler will list the top domains and sources of an article in medium.com. This can be customized for any website by changing few variables.
 
 TO START THIS CRAWLER:
 
